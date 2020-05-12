@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# kami
+
+A timeline tool for プリンセスコネクト！Re:Dive (プリコネR) .
 
 ## Available Scripts
 
