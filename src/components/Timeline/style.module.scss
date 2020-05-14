@@ -1,0 +1,14 @@
+$SIDEBAR_WIDTH: 240px;
+
+.timeline {
+  display: flex;
+  position: relative;
+
+  .layoutSidebar {
+    width: $SIDEBAR_WIDTH;
+  }
+
+  .layoutLines {
+    flex: 1;
+  }
+}
